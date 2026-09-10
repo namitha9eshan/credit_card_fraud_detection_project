@@ -9937,9 +9937,9 @@ GENDER,CAR,REALITY,NO_OF_CHILD,INCOME,INCOME_TYPE,EDUCATION_TYPE,FAMILY_TYPE,HOU
 0,0,1,2,270000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,4.0,50,30,5,0
 0,0,1,2,270000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,4.0,28,30,5,0
 0,0,1,2,270000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,4.0,50,30,5,0
-0,1,1,14,225000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,15.0,58,49,5,0
-0,1,1,14,225000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,15.0,7,49,5,0
-0,1,1,14,225000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,15.0,43,49,5,0
+0,1,1,7,225000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,15.0,58,49,5,0
+0,1,1,7,225000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,15.0,7,49,5,0
+0,1,1,7,225000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,15.0,43,49,5,0
 0,1,1,0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,1,1.0,18,52,12,0
 0,1,1,0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,1,1.0,15,52,12,0
 1,1,1,4,157500.0,State servant,Secondary / secondary special,Separated,House / apartment,1,1,0,5.0,8,38,11,0
@@ -17285,7 +17285,7 @@ GENDER,CAR,REALITY,NO_OF_CHILD,INCOME,INCOME_TYPE,EDUCATION_TYPE,FAMILY_TYPE,HOU
 1,0,1,2,225000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,4.0,15,32,3,0
 1,0,1,2,225000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,4.0,23,32,3,0
 1,0,1,2,225000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,4.0,17,32,3,0
-1,0,1,19,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,1,0,20.0,5,30,5,0
+1,0,1,7,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,1,0,20.0,5,30,5,0
 1,0,1,0,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,2.0,24,48,1,0
 0,0,1,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,2.0,21,37,16,0
 0,0,1,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,2.0,3,37,16,0
